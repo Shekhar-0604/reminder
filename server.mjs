@@ -1,6 +1,6 @@
 import express from 'express';
 import nodemailer from 'nodemailer';
-import fetch from 'node-fetch';
+//import fetch from 'node-fetch';
 
 
 const transporter = nodemailer.createTransport({
